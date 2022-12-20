@@ -25,7 +25,7 @@ Finally, the Record ID attribute was created to serve as a primary key, because 
 
 # References
 
-Alzahrani, A. (2019). Machine Learning for Shill Bidding Classification Models. [online] Available at
+Alzahrani, A. (2019). Machine Learning for Shill Bidding Classification Models. [online] Available at:
 https://ourspace.uregina.ca/handle/10294/9162 [Accessed 19 May 22AD].
 
 Alzahrani, A. and Sadaoui, S. (2018a). Clustering and Labelling Auction Fraud Data. [online] Research Gate. Available at: https://www.researchgate.net/publication/327173391_Clustering_and_Labelling_Auction_Fraud_Data [Accessed 8 May 2022].
