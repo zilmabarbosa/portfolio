@@ -1,3 +1,5 @@
+# About
+
 This was my final integrated assignment for Data Preparation and Machine Learning disciplines. Its objective was to understand, explore and prepare the data, and choose between classification or clustering algorithms (supervised or unsupervised learning) to predict fraudulent bids at the online retailer eBay.
 
 Specifically for Data Preparation, it was suggested to explore the possibility of dimensionally reducing the dataset, by applying both LDA (Linear Discriminant Analysis) and PCA (Principal Component Analysis).
