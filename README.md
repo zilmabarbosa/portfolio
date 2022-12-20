@@ -1,9 +1,5 @@
-Committed professional with over 14 years of marketing, advertising and customer-facing work experience who is now embracing the data science career.
+# About me
 
-I am currently doing a Higher Diploma in Science in Data Analytics for Business (QQI level 8) at CCT, in Dublin, aiming to achieve a first-class honours degree in February 2023.
+I am a multilingual professional (English, Spanish and Portuguese) who has embarked on a new journey to be a Data Analyst after more than 10 years of experience in Marketing and Advertising. In 2020, I moved to Ireland to both improve my English, and have the experience of living abroad. In 2022, I decided to change careers and started a Higher Diploma in Science in Data Analytics for Business, where I recently achieved a First-class Honours degree. I am also studying Project Management. I believe these three areas together are really powerful and useful to help businesses succeed.
 
-The skills I have developed throughout my career in marketing are helping me to develop as a Data Analyst now. Detail-oriented, organised, analytical and with excellent communication skills, including aesthetic sense for visual presentations.
-
-I also consider myself a fast learner and my curiosity helps me with this. Learning Python has been exciting and I believe I have already achieved a good level of knowledge here, although I know this is an endless journey.
-
-On this page, you can see my first college assignments and, hopefully, some of my work in the near future. 
+On this page, you can see some of my college assignments and, hopefully, some of my work in the near future.
